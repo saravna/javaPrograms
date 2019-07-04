@@ -20,9 +20,9 @@ public class Chemist{
         Scanner sc=new Scanner(System.in);
         int n=Integer.parseInt(sc.nextLine());
         for(int i=0;i<n;i++){
-            String temp=sc.nextLine();
-            compounds.add(temp.split("\\=")[0]);
-            elements.add(temp.split("\\=")[1]);
+            String temp=sc.nextLine();           //H2O = H + O
+            compounds.add(temp.split("\\=")[0]); // H2O
+            elements.add(temp.split("\\=")[1]);  // H + O
         }
         int m=Integer.parseInt(sc.nextLine());
         String reqCompund[]=new String[m];
