@@ -4,13 +4,13 @@ Sometimes if a shop does not consume energy it will not be part of the list
 On power shutdown days the entry will be nothing just the date
  
 Please find the format below:
-Jan 1, 2020: shop1 320$shop2 220$shop3 330$shop4 420$shop5 5
-Jan 2, 2020: shop5 318$shop4 320$shop3 330$shop2 420$shop1 5
-Jan 3, 2020: shop1 316$shop1 820$shop3 330$shop4 420$shop5 5
-Jan 4, 2020: shop1 314$shop2 110$shop3 68$shop4 420$shop5 5
-Jan 5, 2020: shop1 323$shop2 220$shop3 330$shop4 420$shop5 5
-Jan 6, 2020: shop1 324$shop3 $330$shop4 420$shop5 5
-Jan 7, 2020: shop1 320$shop2 220$shop3 $330$shop4 420$shop5 51
+Jan 1, 2020: shop1 320$shop2 220$shop3 330$shop4 420$shop5 5                                                                               
+Jan 2, 2020: shop5 318$shop4 320$shop3 330$shop2 420$shop1 5                                                                               
+Jan 3, 2020: shop1 316$shop1 820$shop3 330$shop4 420$shop5 5                                                                               
+Jan 4, 2020: shop1 314$shop2 110$shop3 68$shop4 420$shop5 5                                                                               
+Jan 5, 2020: shop1 323$shop2 220$shop3 330$shop4 420$shop5 5                                                                               
+Jan 6, 2020: shop1 324$shop3 $330$shop4 420$shop5 5                                                                                       
+Jan 7, 2020: shop1 320$shop2 220$shop3 $330$shop4 420$shop5 51                                                                             
 Jan 8, 2020: 
 
 Find the total power consumed if each shop is charged in the following slabs
