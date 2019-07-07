@@ -19,8 +19,8 @@ First 1000 - 2000 units: 0.33/unit
 5000+units: 0.20/unit
 
 Output:
-Shop1 bill:
-Shop2 bill:
-Shop3 bill:
-Shop4 bill:
-Shop5 bill:
+Shop1 bill:                                                                                                                               
+Shop2 bill:                                                                                                                               
+Shop3 bill:                                                                                                                               
+Shop4 bill:                                                                                                                               
+Shop5 bill:                                                                                                                               
